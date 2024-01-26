@@ -16,8 +16,6 @@ namespace Hello
             Console.Write("Введите число B: ");
             double b = Convert.ToDouble(Console.ReadLine());
 
-            Console.WriteLine("A + B = " + (a + b));
-            Console.WriteLine("A - B = " + (a - b));
             Console.WriteLine("A * B = " + (a * b));
             Console.WriteLine("A / B = " + (a / b));
             Console.ReadKey();
