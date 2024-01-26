@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -18,7 +18,6 @@ namespace Hello
 
             Console.WriteLine("A + B = " + (a + b));
             Console.WriteLine("A - B = " + (a - b));
-        
             Console.ReadKey();
         }
     }
