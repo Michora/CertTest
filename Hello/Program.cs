@@ -18,8 +18,7 @@ namespace Hello
 
             Console.WriteLine("A + B = " + (a + b));
             Console.WriteLine("A - B = " + (a - b));
-            Console.WriteLine("A * B = " + (a * b));
-            Console.WriteLine("A / B = " + (a / b));
+        
             Console.ReadKey();
         }
     }
